@@ -7,8 +7,8 @@
 	Capstone Lab: Transcripts
 */
 
-#include "CourseList.h"
-#include "StudentList.h"
+//#include "CourseList.h"
+//#include "StudentList.h"
 
 // Added for test cases
 #include <iostream>
@@ -239,7 +239,7 @@ int main()
 	// and allowing the object to go out of scope without
 	// explicitly calling clearStudentList().
 
-
+	cout << "working" << endl;
 
 	cout << endl;
 	system("Pause");
